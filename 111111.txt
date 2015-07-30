@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 sdffxcfvbfvdbgbvsfsdfsdf
+=======
+sdffxcfvbfvdbgb
+11111111
+>>>>>>> da4caa285746581624b8be78ab48092e6f252af8
